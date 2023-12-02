@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-image: url('bg.jpeg');
+  background-size: cover; /* Cover the width */
+  background-repeat: no-repeat;
+  background-position:  center; /* Center the background image */
+  height: 100vh; /* Ensure the body takes the full height of the viewport */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Target the code element specifically */
+/* Target the code element specifically */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  background-color: #0a0a0a;
+  border: 1px solid #080808;
+  padding: 2px 4px;
+  text-align: center;
+  margin: 20px auto;
+  color: #ffffff; /* White font color */
+  font-size: 40px; /* Increase the font size to 40px or adjust as needed */
+}
+
+/* Center the code within its container */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Align content to the center vertically */
+  height: 100vh;
+}
+
