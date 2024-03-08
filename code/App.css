@@ -8,7 +8,7 @@
 
 
 h1 {
-  margin: 0; /* Remove default margin for h1 */
+  margin: 0; 
 }
 
 .App-logo {
@@ -30,7 +30,7 @@ h1 {
   align-items: center;
   justify-content: center;
   font-size: 30px;
-  color: rgb(7, 3, 3); /* Set font color to white */
+  color: rgb(7, 3, 3); 
 }
 
 .App-link {
