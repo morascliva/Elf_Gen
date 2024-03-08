@@ -6,7 +6,7 @@ body {
   background-image: url('bg.jpeg');
   background-size: cover; 
   background-repeat: no-repeat;
-  background-position:  center; /* Center the background image */
+  background-position:  center;
   height: 100vh; /* Ensure the body takes the full height of the viewport */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
