@@ -4,7 +4,7 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   background-image: url('bg.jpeg');
-  background-size: cover; /* Cover the width */
+  background-size: cover; 
   background-repeat: no-repeat;
   background-position:  center; /* Center the background image */
   height: 100vh; /* Ensure the body takes the full height of the viewport */
