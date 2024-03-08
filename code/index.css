@@ -27,7 +27,7 @@ code {
 body {
   display: flex;
   justify-content: center;
-  align-items: center; /* Align content to the center vertically */
+  align-items: center;
   height: 100vh;
 }
 
